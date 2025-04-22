@@ -1,0 +1,51 @@
+Employee ID,Name,Role,Current Skills,Performance Rating,Email
+E001,Alice Smith,Data Analyst,"Excel, SQL, Tableau",3.5,haameemshimar7@gmail.com
+E002,Bob Johnson,Software Engineer,"Java, Git, Docker",4,bobppp0@gmail.com
+E003,Carol Lee,HR Associate,"Communication, Excel, Recruitment",3,fedrty56@gmail.com
+E004,David Wright,Cloud Engineer,"AWS, Linux, Python",3.8,x23330155@student.ncirl.ie
+E005,Emma Davis,Marketing Analyst,"Excel, Google Analytics, SEO",2.8,x23330175@student.ncirl.ie
+E006,Michael Brown,DevOps Engineer,"Kubernetes, Terraform, CI/CD",4.2,michael.brown@techcorp.com
+E007,Sophia Martinez,UX Designer,"Figma, User Research, Prototyping",3.9,sophiamartinez.design@mail.com
+E008,James Wilson,Project Manager,"Agile, JIRA, Leadership",4.1,jwilson.pm@biznet.org
+E009,Olivia Taylor,Data Scientist,"Python, R, Machine Learning",4.3,olivia.taylor@datalabs.io
+E010,Ethan Anderson,Frontend Developer,"React, JavaScript, CSS",3.7,ethan.dev@webmakers.dev
+E011,Ava Thomas,Cybersecurity Analyst,"SIEM, Pen Testing, Compliance",4,ava.thomas@securenet.com
+E012,Noah White,Product Manager,"Roadmapping, Market Research",3.8,noah.white@products.co
+E013,Isabella Garcia,Content Writer,"SEO, Copywriting, Editing",3.5,isabella.g.writer@mail.com
+E014,Liam Rodriguez,Network Engineer,"Cisco, Firewalls, VPNs",3.6,liam.rod@networksolutions.net
+E015,Mia Lopez,Business Analyst,"Power BI, Stakeholder Management",3.9,mialopez.ba@consulting.com
+E016,Lucas Clark,Backend Developer,"Node.js, MongoDB, APIs",4,lucas.clark.dev@code.io
+E017,Harper Lewis,Sales Executive,"CRM, Negotiation, Lead Generation",3.4,harper.lewis@salespro.com
+E018,Benjamin Walker,QA Engineer,"Selenium, Test Automation, JIRA",3.7,ben.walker.qa@testlabs.org
+E019,Amelia Hall,IT Support Specialist,"Troubleshooting, Active Directory",3.2,amelia.hall@helpdesk.net
+E020,Henry Young,AI Researcher,"NLP, TensorFlow, PyTorch",4.5,henry.young@ai-research.edu
+E021,Charlotte King,Financial Analyst,"Excel, Financial Modeling, Forecasting",3.8,charlotte.king@finance.co
+E022,Alexander Scott,Full-Stack Developer,"JavaScript, Django, PostgreSQL",4.1,alex.scott@fullstack.dev
+E023,Evelyn Green,Digital Marketer,"Social Media, PPC, Analytics",3.6,evelyn.green@marketingpro.com
+E024,Daniel Baker,Database Administrator,"SQL Server, Performance Tuning",3.9,daniel.baker@dba-services.net
+E025,Scarlett Adams,Scrum Master,"Agile Coaching, Sprint Planning",3.7,scarlett.adams@agileteams.com
+E026,Jackson Nelson,Mobile Developer,"Swift, Kotlin, Flutter",4,jackson.nelson@mobileapps.io
+E027,Abigail Carter,Technical Writer,"Documentation, API Guides",3.5,abigail.carter@techdocs.org
+E028,Matthew Mitchell,Systems Administrator,"Windows Server, PowerShell",3.8,matthew.mitchell@sysadmin.net
+E029,Emily Perez,SEO Specialist,"Keyword Research, On-Page SEO",3.9,emily.perez@seomasters.com
+E030,Samuel Roberts,Cloud Architect,"Azure, GCP, Infrastructure as Code",4.4,samuel.roberts@cloudarch.net
+E031,Victoria Turner,Data Engineer,"Spark, Hadoop, ETL Pipelines",4.2,victoria.turner@dataflow.io
+E032,Joseph Phillips,IT Consultant,"IT Strategy, Digital Transformation",3.9,joseph.phillips@consultix.com
+E033,Madison Campbell,UI Designer,"Adobe XD, UI/UX, Responsive Design",4,madison.campbell@designhub.io
+E034,David Evans,Machine Learning Eng.,"Python, Scikit-learn, ML Ops",4.3,david.evans@mltech.ai
+E035,Chloe Parker,Recruitment Specialist,"Talent Acquisition, LinkedIn Recruiter",3.6,chloe.parker@hrtalent.co
+E036,Anthony Collins,ERP Specialist,"SAP, Oracle, Business Process",4.1,anthony.collins@erpexperts.com
+E037,Zoe Stewart,BI Analyst,"Power BI, SQL, Data Visualization",3.8,zoe.stewart@bireports.com
+E038,Christopher Sanchez,Game Developer,"Unity, C#, Game Design",3.7,chris.sanchez@gamedevstudio.io
+E039,Lily Morris,Compliance Officer,"Risk Management, Regulatory Compliance",3.9,lily.morris@compliancepro.org
+E040,Andrew Rogers,IT Auditor,"SOX, ITGC, Risk Assessment",3.8,andrew.rogers@auditfirm.com
+E041,Hannah Reed,Customer Success Mgr.,"CRM, Client Retention, Onboarding",4,hannah.reed@customersuccess.co
+E042,Joshua Cook,Embedded Engineer,"C, RTOS, Microcontrollers",4.2,joshua.cook@embeddedtech.dev
+E043,Addison Bailey,Social Media Manager,"Content Strategy, Analytics",3.7,addison.bailey@socially.co
+E044,Ryan Ward,Solutions Architect,"Enterprise Architecture, Cloud Design",4.5,ryan.ward@techarchitects.com
+E045,Zoey Cooper,IT Trainer,"Training, Technical Workshops",3.6,zoey.cooper@techtraining.edu
+E046,Nathan Rivera,Blockchain Developer,"Solidity, Smart Contracts, Ethereum",4.3,nathan.rivera@blockchain.dev
+E047,Samantha Howard,E-commerce Specialist,"Shopify, Digital Marketing",3.9,samantha.howard@ecompro.com
+E048,Caleb Brooks,Data Privacy Officer,"GDPR, Data Protection Policies",4.1,caleb.brooks@privacyguard.com
+E049,Audrey Bennett,IT Project Coordinator,"Project Planning, Stakeholder Comm.",3.8,audrey.bennett@itprojects.org
+E050,Dylan Wood,Robotics Engineer,"ROS, Python, Embedded Systems",4.4,dylan.wood@roboticslab.ai
